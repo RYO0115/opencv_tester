@@ -1,0 +1,3 @@
+[submodule ".claude/skills/cpp-dev-workflow"]
+	path = .claude/skills/cpp-dev-workflow
+	url = https://github.com/RYO0115/cpp-dev-workflow.git
